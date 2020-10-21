@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Set directory for backup
-bck_dir="/home/user/test_backup/"
+bck_dir="BACKUP DIRECTORY"
 
 #Mount YaDisk
 mkdir /mnt/yadsk
